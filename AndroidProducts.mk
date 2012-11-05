@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/zedboard.mk
+    $(LOCAL_DIR)/zedxylon.mk
