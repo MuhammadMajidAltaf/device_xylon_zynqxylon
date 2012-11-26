@@ -21,7 +21,7 @@ BUILD_EMULATOR_OPENGL := false
 USE_OPENGL_RENDERER := false
 
 TARGET_PREBUILT_KERNEL :=
-KERNEL_DEFCONFIG := zynq_xylon_defconfig
+KERNEL_DEFCONFIG := xilinx_xylon_defconfig
 DEVICE_TREE_SRC := zynq_xylon_logi3d.dts
 DEVICE_TREE_BIN := devicetree.dtb
 RAMDISK_IMAGE := ramdisk8M.image.gz
